@@ -1,6 +1,6 @@
 ## Oba! eu sou o Gustavo!! 😊
 
-- 🤓 Sou aluno por enquanto mas espero trabalhar na área!
+- 🤓 Sou aluno por enquanto mas espero trabalhar na área de programação de jogos!
 - 😊 Sei o basico de Python, e estou aprendendo HTML e CSS.
 - 🦗 os cursos que faço são do Curso em Video com Gustavo Guanabara
 

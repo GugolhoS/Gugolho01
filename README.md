@@ -4,7 +4,7 @@
 - 😊 Sei o basico de Python, e estou aprendendo HTML, CSS e Javascript.
 - 🦗 os cursos que faço são do Curso em Video com Gustavo Guanabara
 
-<div align="center">
+<div align="lefth">
   <a href="https://github.com/Gugolho01">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gugolho01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>

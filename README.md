@@ -1,8 +1,8 @@
 ## Eu sou o Gustavo!! 😊
 
-- 🤓 Sou aluno por enquanto mas espero trabalhar na área de programação de jogos!
+- 🤓 Sou aluno por enquanto mas espero trabalhar na área de programação!
 - 😊 Sei o basico de Python, e estou aprendendo HTML, CSS e Javascript.
-- 🦗 os cursos que faço são do Curso em Video com Gustavo Guanabara
+- 🦗 os cursos que faço são do Curso em Video com Gustavo Guanabara e outros
 
 <div align="lefth">
   <a href="https://github.com/Gugolho01">

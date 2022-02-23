@@ -1,7 +1,7 @@
 ## Eu sou o Gustavo!! 😊
 
 - 🤓 Sou aluno por enquanto mas espero trabalhar na área de programação!
-- 😊 Sei o basico de Python, HTML, CSS, Javascript e php.
+- 😊 Sei o basico de Python, HTML, CSS, Javascript, php e mysql.
 - 🦗 os cursos que faço são do Curso em Video com Gustavo Guanabara e outros
 
 <div align="lefth">

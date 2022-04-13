@@ -1,8 +1,7 @@
-## Eu sou o Gustavo!! 😊
+## Meu nome é Gustavo
 
-- 🤓 Sou aluno por enquanto mas espero trabalhar na área de programação!
-- 😊 Sei o basico de Python, HTML, CSS, Javascript e mysql.
-- 🦗 os cursos que faço são do Curso em Video com Gustavo Guanabara e outros
+- Atuo ná area de jogos
+- Curso da None Class
 
 <div align="lefth">
   <a href="https://github.com/Gugolho01">

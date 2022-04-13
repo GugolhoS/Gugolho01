@@ -1,7 +1,7 @@
 ## Meu nome é Gustavo
 
 - Atuo ná area de jogos
-- Curso da None Class
+- Curso da None Class / <a href="https://github.com/Gugolho01/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
 - Curso em Vídeo
 
 - Uso o GameMake

@@ -2,13 +2,13 @@
 
 - Atuo ná area de jogos
 
-- Cursos:
--     Curso da None Class / <a href="https://github.com/Gugolho01/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
--     Curso em Vídeo
+Cursos:
+-   None Class / <a href="https://github.com/Gugolho01/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
+-   Curso em Vídeo
 
-- Ferramentas:
--     GameMake
--     Git
+Ferramentas:
+-   GameMake
+-   Git
 
 ##
 <div align="lefth">

@@ -1,4 +1,4 @@
-## Meu nome é Gustavo
+## Meu nome é Gustavo Lima dos Santos
 
 - Atuo ná area de jogos
 

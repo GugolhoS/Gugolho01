@@ -1,7 +1,5 @@
 ## Meu nome é Gustavo Lima dos Santos
 
-- Atuo ná area de jogos
-
 Cursos:
 -   None Class / <a href="https://github.com/Gugolho01/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
 -   Curso em Vídeo

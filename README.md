@@ -9,7 +9,7 @@ Cursos:
 Ferramentas:
 -   GameMake
 -   Unity
--   Git
+-   Visual Studio
 
 ##
 <div align="lefth">

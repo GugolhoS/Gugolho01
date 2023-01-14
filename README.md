@@ -3,19 +3,13 @@
 - Tenho capacidade com programação e arte digital.
 
 Cursos:
--   None Class / <a href="https://github.com/Gugolho01/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
+-   None Class / <a href="https://github.com/GugolhoS/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
 -   Curso em Vídeo
 
 Ferramentas:
 -   GameMake
 -   Unity
 -   Visual Studio
-
-##
-<div align="lefth">
-  <a href="https://github.com/Gugolho01">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gugolho01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
  
  ##
 <div style="display: inline_block"><br>

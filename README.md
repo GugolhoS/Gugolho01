@@ -4,7 +4,7 @@
 
 Cursos:
 -   None Class / <a href="https://github.com/GugolhoS/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
--   Curso em Vídeo
+-   Curso em Vídeo / <a href="https://drive.google.com/file/d/1iyKSm6sjbmMfG1eRbeei9Kwg30WMC02q/view" target="_blank"> Certificado!</a>
 
 Ferramentas:
 -   GameMake

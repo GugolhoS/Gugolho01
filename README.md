@@ -10,7 +10,7 @@ Ferramentas:
 -   GameMake
 -   Unity
 -   Visual Studio
--   Photoshop
+-   Krita
  
  ##
 <div style="display: inline_block"><br>

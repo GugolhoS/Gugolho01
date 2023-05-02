@@ -15,9 +15,6 @@ Ferramentas:
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Imagem do icon Yoyo Games" height="30" width="40" src="https://wagon-wheel.yoyogames.com/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1649774616">
-  
-  <img align="center" alt="Black Unity logo on white background" src="https://blog-api.unity.com/sites/default/files/styles/focal_crop_ratio_1_1/public/2022-03/Unity%20Logo-1.png?imwidth=96&amp;h=7d66a0c3&amp;itok=mp5m7hAK" height="40" width="40">
-</div>
  
  ##
 <div style="display: inline_block"><br>

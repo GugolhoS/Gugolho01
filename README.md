@@ -15,6 +15,7 @@ Ferramentas:
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Imagem do icon Yoyo Games" height="30" width="40" src="https://wagon-wheel.yoyogames.com/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1649774616">
+  <img align="center" alt="Imagem do icon Yoyo Games" height="30" width="40" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg">
  
  ##
 <div style="display: inline_block"><br>

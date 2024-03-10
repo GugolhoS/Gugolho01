@@ -1,6 +1,7 @@
 ## Meu nome é Gustavo Lima dos Santos
 
-- Tenho capacidade com programação e arte digital.
+- Tudo que sei está abaixo e o que eu não souber aprendo na mesma hora!
+- Everything I know is below and whatever I don't know, I'll learn right away!
 
 Cursos:
 -   [None Class](https://www.noneclass.com.br) / <a href="https://github.com/GugolhoS/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>

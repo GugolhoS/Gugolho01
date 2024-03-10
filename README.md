@@ -1,5 +1,6 @@
 ## Meu nome é Gustavo Lima dos Santos
 
+### ☝️🤓
 - Tudo que sei está abaixo e o que eu não souber aprendo na mesma hora!
 - Everything I know is below and whatever I don't know, I'll learn right away!
 

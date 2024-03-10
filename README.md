@@ -7,17 +7,16 @@ Cursos:
 -   [Curso em Vídeo](https://www.cursoemvideo.com) / <a href="https://drive.google.com/file/d/1iyKSm6sjbmMfG1eRbeei9Kwg30WMC02q/view" target="_blank"> Certificado</a>
 -   [CodeClub FullStack](https://rodolfomori.com.br/devclub/) / <a href="https://github.com/GugolhoS/code-club-hamburguer/tree/main" target="_blank">Site Criado</a>
 
-Ferramentas:
--   GameMake
--   Unity
--   Visual Studio
--   Krita
- 
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Imagem do icon Yoyo Games" height="30" width="40" src="https://wagon-wheel.yoyogames.com/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1649774616">
   <img align="center" alt="Imagem do icon Yoyo Games" height="30" width="40" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg">
- 
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="Postbird" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="GitHub Desktop" height="30" width="40" src="https://github.com/fluidicon.png">
+  <img align="center" alt="Docker Desktop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -3,8 +3,9 @@
 - Tenho capacidade com programação e arte digital.
 
 Cursos:
--   None Class / <a href="https://github.com/GugolhoS/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
--   Curso em Vídeo / <a href="https://drive.google.com/file/d/1iyKSm6sjbmMfG1eRbeei9Kwg30WMC02q/view" target="_blank"> Certificado!</a>
+-   [None Class](https://www.noneclass.com.br) / <a href="https://github.com/GugolhoS/Jogos-da-None-Class" target="_blank"> Jogos criandos com esse curso!</a>
+-   [Curso em Vídeo](https://www.cursoemvideo.com) / <a href="https://drive.google.com/file/d/1iyKSm6sjbmMfG1eRbeei9Kwg30WMC02q/view" target="_blank"> Certificado</a>
+-   [CodeClub FullStack](https://rodolfomori.com.br/devclub/) / <a href="https://github.com/GugolhoS/code-club-hamburguer/tree/main" target="_blank">Site Criado</a>
 
 Ferramentas:
 -   GameMake
